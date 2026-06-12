@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Hands Guide Me
+
+This log tracks the cryptographic history and versioning for the song **Your Hands Guide Me** (your-hands-guide-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T01:03:46.677981 | `v1` | `6a9bb0a7f62865fa0e04a895333def0b78eb3daf1f23426461bee76bbdc3d8ee` | `e67b140d5a9d80d44b410279e0d3840fe53cfdb45c521128d250554cb06b5504` | `2026-06-13_your-hands-guide-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

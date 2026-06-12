@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-hands-guide-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Your Hands Guide Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-hands-guide-me/) |
+| **Get License** | [Request Licensing for Your Hands Guide Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-hands-guide-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6a9bb0a7f62865fa0e04a895333def0b78eb3daf1f23426461bee76bbdc3d8ee` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
